@@ -12,10 +12,10 @@ Bachelor of Arts, May 2012      Major: Physics    Minor:Computer Science
 * GPA               * Phi Beta Kappa
 * Summa Cum Laude   * Presidential Scholar
 
-SKILLS
-_Trilingual_: English, French, Kinyarwanda
-_Technical Skills_:
- Systems Engineering
+SKILLS  
+_Trilingual_: English, French, Kinyarwanda  
+_Technical Skills_:  
+ Systems Engineering  
  * PID Control, Optimal Control
  * Optimal Estimation, Filtering
  * Robust and Adaptive Control
