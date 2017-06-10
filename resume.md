@@ -28,3 +28,4 @@ RESEARCH EXPERIENCE & PROJECTS
 AML Laboratory, St. Louis, Missouri, Fall 2014-2017  
 * Minimum Energy Phase-selective Entrainment of Nonlinear Oscillator Ensembles. 
 Investigated the possibility of controlling a network of coupled oscillators and the distribution of final states using a minimum energy collective controller. 
+* Data Driven Topology Estimation. Investigated ways to recover the topology and estimate the coupling strengths from time series data of a network of oscillators.  
