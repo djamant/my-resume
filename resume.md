@@ -34,7 +34,7 @@ Maple Laboratory, St. Louis, Missouri, Summer 2013 - Fall 2014
 * Reformulation of Lithium Ion Battery Models. Reformulated physics based models of lithium ion batteries to improve computational efficiency in battery management systems and enable more accurate state estimation.  
 Robert Dunn's Research Laboratory, Hendrix College, Conway, Arkansas, Summer 2011  
 
-EXPERIENCES  
+EXPERIENCES
 * esearch Assistant, EECE and ESE departments, Washington University, St. Louis, Missouri, 2013-2017  
 * Teaching Assistant, ESE department, Washington University, St. Louis, Missouri, 2014-2015  
 * Teaching Assistant, Physics Department, Hendrix College, Conway, Arkansas, 2010-2012  
@@ -43,7 +43,7 @@ EXPERIENCES
 * Intern, Hendrix College Office of Communication and Marketing, Conway, Arkansas, Summer 2009  
 * Math and Science High School Teacher, Bihembe Secondary School, Eastern Province, Rwanda, Spring 2008  
 
-SELECTED COMMUNITY SERVICES  
+SELECTED COMMUNITY SERVICES
 * Volunteer and Service Coordinator, The Journey Church, Hanley Road, St. Louis, Missouri, 2015-present
 * Maili Summer Program Lecturer, Washington University, St. Louis, Missouri, Summer 2014
 * Riding Dirty with Science, Hendrix College, Arkansas, Summer 2011
