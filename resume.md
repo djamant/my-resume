@@ -32,4 +32,13 @@ Investigated the possibility of controlling a network of coupled oscillators and
 * Data Driven Modeling of Biological Systems. Derived phase models of circadian rhythms from time series data. This enabled the estimation topology and study of the social synchronization among organisms.  
 Maple Laboratory, St. Louis, Missouri, Summer 2013 - Fall 2014  
 * Reformulation of Lithium Ion Battery Models. Reformulated physics based models of lithium ion batteries to improve computational efficiency in battery management systems and enable more accurate state estimation.  
-Robert Dunn's Research Laboratory, Hendrix College, Conway, Arkansas, Summer 2011'    
+Robert Dunn's Research Laboratory, Hendrix College, Conway, Arkansas, Summer 2011  
+
+EXPERIENCES  
+* esearch Assistant, EECE and ESE departments, Washington University, St. Louis, Missouri, 2013-2017  
+* Teaching Assistant, ESE department, Washington University, St. Louis, Missouri, 2014-2015  
+* Teaching Assistant, Physics Department, Hendrix College, Conway, Arkansas, 2010-2012  
+* Resident Assistant, Residence Life, Hendrix College, Conway, Arkansas, 2009-2012  
+* Intern, Kigali Institute of Science and Technology, Kigali, Rwanda, Summer 2010  
+* Intern, Hendrix College Office of Communication and Marketing, Conway, Arkansas, Summer 2009  
+* Math and Science High School Teacher, Bihembe Secondary School, Eastern Province, Rwanda, Spring 2008  
