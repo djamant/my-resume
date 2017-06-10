@@ -31,5 +31,4 @@ Investigated the possibility of controlling a network of coupled oscillators and
 * Data Driven Topology Estimation. Investigated ways to recover the topology and estimate the coupling strengths from time series data of a network of oscillators.  
 * Data Driven Modeling of Biological Systems. Derived phase models of circadian rhythms from time series data. This enabled the estimation topology and study of the social synchronization among organisms.  
 Maple Laboratory, St. Louis, Missouri, Summer 2013 - Fall 2014  
-* Reformulation of Lithium Ion Battery Models. Reformulated physics based models of lithium ion batteries to improve computational efficiency in battery management systems and enable more accurate state estimation.     
-Robert Dunn’s Research Laboratory, Hendrix College, Conway, Arkansas, Summer 2011
+* Reformulation of Lithium Ion Battery Models. Reformulated physics based models of lithium ion batteries to improve computational efficiency in battery management systems and enable more accurate state estimation.  
