@@ -42,3 +42,11 @@ EXPERIENCES
 * Intern, Kigali Institute of Science and Technology, Kigali, Rwanda, Summer 2010  
 * Intern, Hendrix College Office of Communication and Marketing, Conway, Arkansas, Summer 2009  
 * Math and Science High School Teacher, Bihembe Secondary School, Eastern Province, Rwanda, Spring 2008  
+
+SELECTED COMMUNITY SERVICES  
+* Volunteer and Service Coordinator, The Journey Church, Hanley Road, St. Louis, Missouri, 2015-present
+* Maili Summer Program Lecturer, Washington University, St. Louis, Missouri, Summer 2014
+* Riding Dirty with Science, Hendrix College, Arkansas, Summer 2011
+  Performed experiments for students from the local Boys and Girls Club and engaged them in discussions about science  
+* Mission Trip, San Diego, California, March 2010  
+  Worked at soup kitchens and homeless shelters, tutored students in low income neighborhoods, and volunteered with IRC
