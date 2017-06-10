@@ -24,4 +24,4 @@ _Technical Skills_:
 PUBLICATION
 * P. C. Urisanga, D. Rife, S. De and V. R. Subramanian, "Efficient Conservative Reformulation Schemes for Lithium Intercalation", J. Electrochem. Soc, 162(6), A852-A857 (2015). 
 
-
+RESEARCH EXPERIENCE & PROJECTS  
