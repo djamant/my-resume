@@ -24,7 +24,7 @@ _Technical Skills_:
 PUBLICATION
 * P. C. Urisanga, D. Rife, S. De and V. R. Subramanian, "Efficient Conservative Reformulation Schemes for Lithium Intercalation", J. Electrochem. Soc, 162(6), A852-A857 (2015). 
 
-RESEARCH EXPERIENCE & PROJECTS  
+RESEARCH EXPERIENCE and PROJECTS  
 AML Laboratory, St. Louis, Missouri, Fall 2014-2017  
 * Minimum Energy Phase-selective Entrainment of Nonlinear Oscillator Ensembles. 
 Investigated the possibility of controlling a network of coupled oscillators and the distribution of final states using a minimum energy collective controller. 
