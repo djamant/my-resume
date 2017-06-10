@@ -15,7 +15,7 @@ Bachelor of Arts, May 2012      Major: Physics    Minor:Computer Science
 SKILLS  
 _Trilingual_: English, French, Kinyarwanda  
 _Technical Skills_:  
- Systems Engineering            
+ Systems Engineering           
  * PID Control, Optimal Control
  * Optimal Estimation, Filtering
  * Robust and Adaptive Control
