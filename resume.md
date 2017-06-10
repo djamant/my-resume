@@ -33,4 +33,3 @@ Investigated the possibility of controlling a network of coupled oscillators and
 Maple Laboratory, St. Louis, Missouri, Summer 2013 - Fall 2014  
 * Reformulation of Lithium Ion Battery Models. Reformulated physics based models of lithium ion batteries to improve computational efficiency in battery management systems and enable more accurate state estimation.  
 Robert Dunn’s Research Laboratory, Hendrix College, Conway, Arkansas, Summer 2011  
-* Using Ring Lasers to Monitor Infrasound and Ground Motion. Built a new ring laser, recorded, and analyzed responses from ring lasers as they sensed motion in the ground from events such as earthquakes, volcanoes, and hurricanes.  
